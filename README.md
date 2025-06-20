@@ -2,6 +2,7 @@
 This project was developed as part of postgraduate studies in Data Science. It includes collecting, processing, and visualizing meteorological data (temperature and precipitation) from 1966 to 2022. Tools such as Excel, Power BI, and SQL were used to analyze long-term climate trends and create an interactive dashboard.
 
 Overview
+
 This project explores long-term climate trends in Poland using historical meteorological data from IMGW (Polish Institute of Meteorology and Water Management). It focuses on changes in temperature and precipitation patterns over the period 1966–2022.
 
 The project was created as part of a postgraduate program in Data Science and Data Analytics and showcases a complete data analysis pipeline – from data acquisition to an interactive Power BI dashboard.
